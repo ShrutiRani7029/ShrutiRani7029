@@ -1,7 +1,6 @@
 ### Hello, Myself Shruti! 👋
 
-- 🔭 I’m currently working on Coding & Project
-- 🌱 I’m currently learning graph and dynamic programming.
+- 🔭 I’m currently preparing for placements.
 - 👯 I’m looking to collaborate on LEETCODE AND GFG
 - 😀 Belive in Exploring the things.
 - 💡 Always Ready to Gain Knowledge.
